@@ -1,8 +1,8 @@
 {
-  "name": "chainregistry",
+  "name": "chainaudit",
   "version": "1.0.0",
   "private": true,
-  "description": "Decentralized username/domain registry with ownership transfer on Base and Stacks",
+  "description": "Immutable audit trail system for compliance and verification on Base and Stacks blockchains.",
   "scripts": {
     "dev": "pnpm --filter web dev",
     "build": "pnpm --filter web build",
